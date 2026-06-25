@@ -1,8 +1,8 @@
-# CodeAlpha — Language Translation Tool
+# CodeAlpha — Language Transulation Tool
 
 A simple Python chatbot that translates English words into many languages.
 
-This repository contains a lightweight translation chatbot built with Python. It accepts English input and returns translations into one or more target languages.
+This repository contains a lightweight translation ("transulation") chatbot built with Python. It accepts English input and returns translations into one or more target languages.
 
 Features
 - Translate English words or short phrases to multiple languages.
@@ -65,4 +65,4 @@ License
 This project is provided under the MIT License. See LICENSE for details (or add a LICENSE file).
 
 Notes
-- The repository name contains the word "Transulation"; I used the human-friendly term "Translation" in this README. If you'd like me to use the original spelling everywhere I can adjust the file.
+- I reverted the README wording to match the repository name spelling "Transulation".
